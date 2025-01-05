@@ -2,18 +2,18 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [your current project or technology you're working on]
-- 🌱 I’m currently learning [technologies or skills you are learning]
-- 👯 I’m looking to collaborate on [projects or technologies you are interested in collaborating on]
-- 🤔 I’m looking for help with [technologies or challenges you need help with]
-- 💬 Ask me about [topics you are knowledgeable about]
-- 📫 How to reach me: [your email or preferred communication method]
-- ⚡ Fun fact: [a fun fact about yourself]
+- 🔭 I’m currently working on College Project.
+- 🌱 I’m currently learning Web3.
+- 👯 I’m looking to collaborate on anything.
+- 🤔 I’m looking for help with internship.
+- 💬 Ask me about web development.
+- 📫 How to reach me: biplovthapa890@gmail.com
+- ⚡ Fun fact: Real Madrid fan.
 
 ## Skills
 
-- Languages: [list programming languages you are proficient in]
-- Frameworks: [list frameworks you are proficient in]
+- Languages: Ts,js,py,c,c++.
+- Frameworks: Express,React,NextJs
 - Tools: [list tools or technologies you are proficient in]
 
 ## Projects
@@ -27,8 +27,7 @@
 
 ## Get in Touch
 
-- [LinkedIn](your LinkedIn profile link)
-- [Twitter](your Twitter profile link)
-- [Personal Website](your personal website link)
+- [LinkedIn](https://www.linkedin.com/in/biplov-thapa-08493531b/)
+- [Personal Website](https://biplov-portfolio2.netlify.app/)
 
 Thanks for visiting my profile!
