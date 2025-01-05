@@ -28,6 +28,6 @@
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/biplov-thapa-08493531b/)
-- [Personal Website](https://biplov-portfolio2.netlify.app/)
+- [Personal Website]()
 
 Thanks for visiting my profile!
