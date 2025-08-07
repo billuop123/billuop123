@@ -1,8 +1,6 @@
 # Hi there, I'm Billuop123! 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=billuop123)
 ## About Me
-
-- 🔭 I’m currently working on College Project.
 - 🌱 I’m currently learning Web3.
 - 👯 I’m looking to collaborate on anything.
 - 🤔 I’m looking for help with internship.
@@ -12,14 +10,9 @@
 
 ## Skills
 
-- Languages: Ts,js,py,c,c++.
+- Languages: Ts,js,py,c,c++.java
 - Frameworks: Express,React,NextJs
-- Tools: [list tools or technologies you are proficient in]
-
-## Projects
-
-- [Project 1](link to project): brief description of project 1
-- [Project 2](link to project): brief description of project 2
+- Tools: Docker,Kubernetes,Kafka,Redis
 
 ## GitHub Stats
 
@@ -28,6 +21,5 @@
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/biplov-thapa-08493531b/)
-- [Personal Website]()
 
 Thanks for visiting my profile!
