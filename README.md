@@ -11,7 +11,7 @@
 ## Skills
 
 - Languages: Ts,js,py,c,c++.java
-- Frameworks: Express,React,NextJs
+- Frameworks: Nodejs,React,NextJs
 - Tools: Docker,Kubernetes,Kafka,Redis
 
 ## GitHub Stats
