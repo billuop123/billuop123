@@ -12,11 +12,9 @@
 
 - Languages: Ts,js,py,c,c++.java
 - Frameworks: Nodejs,React,NextJs
-- Tools: Docker,Kubernetes,Kafka,Redis
+- Tools: Docker,Kafka,Redis
 
-## GitHub Stats
 
-![Billuop123's GitHub stats](https://github-readme-stats.vercel.app/api?username=billuop123&show_icons=true&theme=radical)
 
 ## Get in Touch
 
