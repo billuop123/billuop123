@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with internship.
 - 💬 Ask me about web development.
 - 📫 How to reach me: biplovthapa890@gmail.com
-- ⚡ Fun fact: Real Madrid fan.
 
 ## Skills
 
