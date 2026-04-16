@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Biplov!+%F0%9F%91%8B;Full+Stack+Developer;Always+building+something+new..." alt="Typing SVG" />
+</div>
+
 <br/>
 
 <div align="center">
@@ -9,13 +14,21 @@
 ## 🧑‍💻 About Me
 
 ```typescript
-const biplov = {
-  languages : ["Go", "TypeScript", "JavaScript", "Python", "C", "C++", "Java"],
-  frameworks : ["Node.js", "React", "Next.js"],
-  tools      : ["Docker", "Kafka", "Redis"],
-  interests  : ["Backend Systems", "Distributed Systems", "Web Development"],
-  contact    : "biplovthapa890@gmail.com",
-};
+type Biplov struct {
+    Languages  []string
+    Frameworks []string
+    Tools      []string
+    Interests  []string
+    Contact    string
+}
+
+var biplov = Biplov{
+    Languages:  []string{"Go", "TypeScript", "JavaScript", "Python", "C", "C++", "Java"},
+    Frameworks: []string{"Node.js", "React", "Next.js"},
+    Tools:      []string{"Docker", "Kafka", "Redis"},
+    Interests:  []string{"Backend Systems", "Distributed Systems", "Web Development"},
+    Contact:    "biplovthapa890@gmail.com",
+}
 ```
 
 ---
